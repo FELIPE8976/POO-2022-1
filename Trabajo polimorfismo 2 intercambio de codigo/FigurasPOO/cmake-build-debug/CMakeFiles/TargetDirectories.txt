@@ -1,0 +1,3 @@
+D:/trabajo figuras/POO2022-1DAVM/FigurasPOO/cmake-build-debug/CMakeFiles/FigurasPOO.dir
+D:/trabajo figuras/POO2022-1DAVM/FigurasPOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/trabajo figuras/POO2022-1DAVM/FigurasPOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
